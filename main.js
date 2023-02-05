@@ -1,0 +1,10 @@
+var first="Ranbir";
+console.log(first);
+var second="Kapoor";
+console.log(second);
+var fullname=first.concat(second);
+console.log(fullname);
+var add= 6 + 9;
+console.log(add);
+var power=Math.pow(5, 5);
+console.log(power);
